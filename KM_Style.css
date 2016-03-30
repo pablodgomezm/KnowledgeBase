@@ -1,0 +1,31 @@
+html {
+	margin: 0px !important; 
+	padding: 0px !important;
+}
+
+body {
+	margin: 0px !important;
+	padding: 0px !important;
+}
+
+#headerBar {
+	height:120px;
+	margin: 0px 0px 2em;
+	padding: 0px;
+	background-color:#3b5998;
+}
+
+#menuBar {
+	margin:auto;
+	color:#ffffff;
+	background-color:#008fb3;
+	display: inline-block;
+	padding: 0.3em 1em;
+	font-family: 'Nova Mono', 'sans-serif';
+}
+
+#cuerpo {
+	width:800px;
+	margin:auto;
+}
+
